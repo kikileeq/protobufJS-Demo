@@ -22,3 +22,6 @@ msg.setPhoneNumbers(["800-555-1212", "800-555-1100"]);
 var bytes = msg.serializeBinary();
 ### 反序列化
 Var msg2 = MyMessage.deserializeBinary(bytes);
+> nihao 
+>hello
+[链接名称]www.baidu.com
